@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Tampa Bay 2023"
+Description = "Sponsor DevOpsDays Tampa Bay 2026"
 +++
 
 <br>
